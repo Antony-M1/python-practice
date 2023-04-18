@@ -17,3 +17,8 @@ pip install -r requirements.txt
 ```
 git checkout -b <BRANCH_NAME>
 ```
+
+Push the code to git
+```
+git push origin <BRANCH_NAME>
+```
