@@ -12,3 +12,8 @@ install all the packages from the requirements.txt
 ```
 pip install -r requirements.txt
 ```
+
+### Create New Brannch
+```
+git checkout -b <BRANCH_NAME>
+```
